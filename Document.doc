@@ -1,0 +1,31 @@
+In this exercise you will have to create a Simple Task Manager :
+
+
+
+**Task 1 : Initialize Node Project and Utilize global objects , Standard modules and Custom Modules**
+
+* Create a data.json file in the project directory with some dummy data. 
+* Create a taskManager.js file and use the **Global Objects** to read the current file directory and build the complete file path.
+* Use the Standard Module (fs) to read the file with the help of file path and log the data
+* Lastly, define the Custom Module logic in taskManager.js , create an app.js file , import the function and log the tasks retrieved from **Custom Module**
+
+
+
+
+
+**Task 2 : Using Promises and async/await function**
+
+* \--- Promise ---
+* Within the taskManager.js , convert the data retrieval as Promise function
+* Consume the promise function in app.js and log the tasks retrieved using Promise function
+* \--- Async/await ---
+* Update in app.js with async/await functions to consume the promise
+
+
+
+**Task 3 : Using third-party Node Modules**
+
+* Use dayjs Pacakge to display the current date when the default root triggered
+* Use NPM Package Express and display the tasks when '/tasks' triggered
+
+

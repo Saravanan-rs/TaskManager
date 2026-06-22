@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "task": "Learn Node.js",
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "task": "Practice Express",
+        "status": "Completed"
+    },
+    {
+        "id": 3,
+        "task": "Finish Assignment",
+        "status": "Pending"
+    }
+]
